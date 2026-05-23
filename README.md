@@ -2,7 +2,7 @@
 
 My name is mangled and I'm a 15 year old kid who is really interested in programming. I don't have a goal or a programming language that I want to lock on to yet but if I do then I'll put it here.
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on my own website
 - 🌱 I’m currently learning python
 - 🤔 I’m looking for help with almost everything :(
 - 💬 Ask me about Beat Saber
