@@ -2,8 +2,8 @@
 
 My name is mangled and I'm a 16 year old kid who is really interested in programming. I don't have a goal or a programming language that I want to lock on to yet but if I do then I'll put it here.
 
-- 🔭 I’m currently working on my own website
-- 🌱 I’m currently learning python
+- 🔭 I’m currently working on modmapper
+- 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with almost everything :(
 - 💬 Ask me about Beat Saber
 - 📫 How to reach me: https://discord.com/users/897849927986712637
