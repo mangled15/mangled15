@@ -18,5 +18,4 @@ For the rest I can do a little bit of everything which includes(ranked from best
 !['erm](https://cdn.shopify.com/s/files/1/0643/5169/9161/files/Color_Shells.webp?v=1742355657)
 ***Dream headset ^^^***
 ---
-> Contact
 > [Discord](https://discord.com/users/897849927986712637)
