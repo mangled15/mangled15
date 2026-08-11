@@ -11,13 +11,12 @@ For the rest I can do a little bit of everything which includes(ranked from best
 - JavaScript/TypeScript
 - Python
 - HTML/CSS
-- C/C++/C#
-- Lua/Luau
+- C++
+- Luau(roblox🥀)
 
 ---
 !['erm](https://cdn.shopify.com/s/files/1/0643/5169/9161/files/Color_Shells.webp?v=1742355657)
 ***Dream headset ^^^***
-
-> [!NOTE]
-> Contact me!
-> - [Discord](https://discord.com/users/897849927986712637)
+---
+> Contact
+> [Discord](https://discord.com/users/897849927986712637)
