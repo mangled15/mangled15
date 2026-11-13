@@ -18,3 +18,4 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: mangled15
+          config_timezone: Netherlands
